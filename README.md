@@ -1,4 +1,4 @@
-# jsPsych Word Categorization Experiment
+# jsPsych Word Categorization Experiment 1
 A jsPsych implicit learning experiment.
 
 ## Purpose
