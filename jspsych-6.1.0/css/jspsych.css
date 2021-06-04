@@ -73,8 +73,7 @@
   border-radius: 4px;
   color: #333;
   background-color: #fff;
-  border-color: #ccc;
-}
+  border-color: #ccc; 
 
 .jspsych-btn:hover {
   background-color: #ddd;

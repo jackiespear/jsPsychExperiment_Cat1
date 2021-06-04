@@ -1,8 +1,9 @@
-# jsPsychExperiment2
-A jsPsych recognition experiment of DRM category words and distinct, semantic outliers.
+# jsPsych Word Categorization Experiment
+A jsPsych implicit learning experiment.
 
 ## Purpose
 
-This experiment was part of my MA thesis. Data collected was compared to performance of an instance-based model of human memory, MINERVA 2, coupled with vector-based representations of word meaning derived from BEAGLE and LSA.
+This experiment was a collaboration between the Jamieson Lab at the University of Manitoba and Evan Curtis at Booth University. Data collected was compared to performance of an instance-based model of human memory, MINERVA 2.
 
-Participants were asked to study distinctive words that were embedded in eight different categorized DRM lists. At test, three different types of lures were presented: distinct related lures, categorical related lures, and unrelated lures. 
+In an implicit learning experiment, participants study a list of words that are chosen on the basis of a rule. They are then are asked to classify new test words that conform to that rule. Even though people are never told what the rule is, they are often able to sort rule-following from rule-violating words. 
+The test procedure was a 2AFC task to choose the rule conforming word. Materials were an equal amount of of high and low frequency abstract words.
